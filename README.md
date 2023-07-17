@@ -2,6 +2,14 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/paulo-rocha0/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <p align="left">Sou um profissional de DevOps apaixonado por tecnologia e automação. Neste README, gostaria de compartilhar um pouco sobre minha experiência e habilidades na área.</p>
 
 ###
@@ -75,14 +83,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="36" alt="ubuntu logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="36" alt="vagrant logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/paulo-rocha0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
