@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Experiência Profissional</h4>
+<h3 align="center">Experiência Profissional</h3>
 
 ###
 
@@ -21,11 +21,15 @@
 
 ###
 
-<h4 align="center">Habilidades</h4>
+<h3 align="center">Habilidades</h3>
 
 ###
 
-<p align="left">Automação de Infraestrutura: Utilizo ferramentas como Ansible, Terraform e CloudFormation para automatizar a implantação e configuração de infraestruturas em nuvem e on-premise.<br>Integração e Entrega Contínua (CI/CD): Sou especializado na criação e manutenção de pipelines de CI/CD, utilizando ferramentas como Jenkins, GitLab CI/CD e AWS CodePipeline.<br>Gerenciamento de Configuração: Tenho experiência com ferramentas como Chef e Puppet para gerenciar e garantir a consistência da configuração em diferentes ambientes.<br>Monitoramento e Logística: Utilizo ferramentas como Prometheus, Grafana e ELK Stack para monitorar e analisar o desempenho de sistemas, além de detectar problemas e realizar troubleshooting.<br>Orquestração de Contêineres: Trabalhei com tecnologias como Docker e Kubernetes para criar e gerenciar ambientes escaláveis e altamente disponíveis.</p>
+* Automação de Infraestrutura: Utilizo ferramentas como Ansible, Terraform e CloudFormation para automatizar a implantação e configuração de infraestruturas em nuvem e on-premise.
+* Integração e Entrega Contínua (CI/CD): Trabalhando na criação e manutenção de pipelines de CI/CD, utilizando ferramentas como Jenkins, GitLab CI/CD e AWS CodePipeline.
+* Gerenciamento de Configuração: Tenho experiência com ferramentas como Chef e Puppet para gerenciar e garantir a consistência da configuração em diferentes ambientes.
+* Monitoramento e Logística: Utilizo ferramentas como Prometheus, Grafana e ELK Stack para monitorar e analisar o desempenho de sistemas, além de detectar problemas e realizar troubleshooting.
+* Orquestração de Contêineres: Trabalhei com tecnologias como Docker e Kubernetes para criar e gerenciar ambientes escaláveis e altamente disponíveis
 
 ###
 
