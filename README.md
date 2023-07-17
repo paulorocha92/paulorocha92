@@ -40,6 +40,7 @@
 * Orquestração de Contêineres: Trabalhei com tecnologias como Docker e Kubernetes para criar e gerenciar ambientes escaláveis e altamente disponíveis
 
 ###
+<h3 align="center">Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="kubernetes logo"  />
